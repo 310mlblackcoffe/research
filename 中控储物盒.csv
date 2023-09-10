@@ -1,0 +1,582 @@
+﻿车型信息,动力,车种,6月车型销量,车型,品线月销量,品线月销售额
+Tesla Model Y,EV,SUV-D,36435, Model Y,17306,476042
+Tesla Model 3,EV,Car-D,19000, Model 3,16414,480320
+吉普  Wrangler (Jeep ),ICE,SUV-C,12778, Wrangler,11431,284015
+GMC GMC Sierra,ICE,Pickup Truck,25544, Sierra,9523,205214
+雪佛兰 Silverado,ICE,Pickup Truck,47698, Silverado,9507,204867
+吉普  Jeep Gladiator,ICE,Pickup Truck,5130, Gladiator,9292,235646
+福特 Bronco Sport,ICE,SUV-C,11152, Bronco,6460,120351
+丰田 Tacoma,ICE,Pickup Truck,20153, Tacoma,6447,125309
+丰田 RAV4,ICE,SUV-D,38482, RAV4,5268,92059
+GMC Yukon,ICE,SUV-E,3845, Yukon,4723,92616
+雪佛兰 C/K Suburban,ICE,SUV-E,5209, Suburban,4721,92419
+雪佛兰 Tahoe,ICE,SUV-E,9955, Tahoe,4712,92287
+本田 CR-V,HV,SUV-D,31159, CR-V,4506,90660
+福特 Ford F-150,ICE,Pickup Truck,72355, F-150,4291,86055
+#N/A,#N/A,#N/A,#N/A, F150,3603,72556
+本田 Honda Pilot,ICE,SUV-D,10691, Pilot,3602,97958
+福特 Bronco Sport,ICE,SUV-C,11152, Bronco Sport,3283,59186
+道奇  Charger (Dodge ),ICE,Car-D,8047, Charger,3173,82121
+丰田 Tundra,ICE,Pickup Truck,10500, Tundra,3153,78118
+福特 Ford Maverick,HV,Pickup Truck,7473, Maverick,2587,48104
+#N/A,#N/A,#N/A,#N/A, CRV,2176,43820
+福特 Escape,ICE,SUV-C,12465, Escape,2049,35741
+丰田 4Runner,ICE,SUV-D,9168, 4Runner,2012,51165
+Rivian R1T,EV,Pickup Truck,3436, R1T,1945,50968
+#N/A,#N/A,#N/A,#N/A, R1S,1940,50919
+#N/A,#N/A,#N/A,#N/A, F250,1871,33088
+福特 Expedition,ICE,SUV-E,6970, Expedition,1658,31303
+丰田 Sienna,HV,MPV,6418, Sienna,1598,34101
+本田 Accord,ICE,Car-D,17735, Accord,1586,28017
+丰田 Camry,ICE,Car-D,27078, Camry,1560,27524
+现代 Tucson (ix35),ICE,SUV-C,17228, Tucson,1559,25543
+大众 VW Atlas,ICE,SUV-D,7863, Atlas,1544,29099
+本田 Ridgeline,ICE,Pickup Truck,4678, Ridgeline,1343,24685
+本田 Passport,ICE,SUV-D,3710, Passport,1341,24656
+现代 Santa Cruz,ICE,Pickup Truck,3627, Santa Cruz,1279,20616
+起亚 Sportage,ICE,SUV-C,13128, Sportage,1024,15558
+Tesla Model S,EV,Car-E,1700, Model S,916,20884
+#N/A,#N/A,#N/A,#N/A, Crosstrek,894,19098
+Tesla Model X,EV,SUV-E,2500, Model X,858,17398
+福特 Explorer,ICE,SUV-D,12824, Explorer,851,13219
+斯巴鲁 Impreza,ICE,Car-C,2954, Impreza,824,14719
+大众 Taos,ICE,SUV-C,4403, Taos,797,10665
+本田 Civic,ICE,Car-C,15979, Civic,771,13045
+GMC Yukon XL,ICE,SUV-E,3045, Yukon XL,763,13873
+福特 Ford Ranger,ICE,Pickup Truck,4415, Ranger,745,12151
+大众 ID.4,EV,SUV-C,2836, ID.4,734,12379
+路虎  Defender (Land Rover ),ICE,SUV-D,1996, Defender,726,18424
+斯巴鲁 Forester,ICE,SUV-C,10669, Forester,722,14590
+大众 Tiguan,ICE,SUV-C,4683, Tiguan,716,10140
+日产 Rogue,ICE,SUV-C,27096, Rogue,707,15402
+起亚 EV6,EV,SUV-D,1458, EV6,626,11072
+日产 Frontier (Navara),ICE,Pickup Truck,5072, Frontier,595,9758
+#N/A,#N/A,#N/A,#N/A, Carnival,587,10448
+雪佛兰 Chevrolet Colorado,ICE,Pickup Truck,10664, Colorado,577,9199
+GMC Canyon,ICE,Pickup Truck,3496, Canyon,577,9199
+宝马 3 Series,ICE,Car-D,2437, 3 Series,574,10831
+宝马 4 Series,ICE,Car-D,2136, 4 Series,572,10797
+雪佛兰 Equinox,ICE,SUV-C,14604, Equinox,558,9109
+福特 Mustang,ICE,Car-D,2060, Mustang,536,9329
+梅赛德斯-奔驰  GLC-Class (GLK-Class),ICE,SUV-D,4702, GLC,494,8519
+#N/A,#N/A,#N/A,#N/A, C Class,469,8135
+#N/A,#N/A,#N/A,#N/A, Sequoia,464,10113
+马自达 CX-30,ICE,SUV-C,6612, CX-30,444,7079
+讴歌 Acura RDX,ICE,SUV-D,3502, Acura RDX,442,7743
+雪佛兰 Chevrolet Bolt EUV,EV,SUV-C,3318, Bolt EUV,423,7011
+现代 Palisade,ICE,SUV-D,5873, Palisade,415,7007
+雪佛兰 Blazer,ICE,SUV-D,6290, Blazer,409,6432
+#N/A,#N/A,#N/A,#N/A, Chevy Bolt,377,6258
+马自达 CX-5,ICE,SUV-C,12861, CX-5,373,6705
+丰田 Corolla,ICE,Car-C,18163, Corolla,360,5093
+宝马 X3,ICE,SUV-D,5070, X3,360,9560
+#N/A,#N/A,#N/A,#N/A, X4,360,9560
+Ram  Ram 1500,ICE,Pickup Truck,39550, Ram 1500,359,7455
+Ram  Ram 1500,ICE,Pickup Truck,39550, RAM 1500,359,7455
+#N/A,#N/A,#N/A,#N/A, RX350,355,6930
+#N/A,#N/A,#N/A,#N/A, HRV,345,6192
+福特 Mustang Mach-E,EV,SUV-D,4110, Mustang Mach-E,345,5360
+丰田 Corolla Cross,ICE,SUV-C,5373, Corolla Cross,344,4837
+#N/A,#N/A,#N/A,#N/A, Cruiser,342,9234
+宝马 X5,ICE,SUV-E,6208, X5,327,5645
+吉普  Compass (Jeep ),ICE,SUV-C,8615, Compass,327,5121
+#N/A,#N/A,#N/A,#N/A, X6,317,5494
+本田 HR-V,ICE,SUV-C,9136, HR-V,313,5601
+吉普  Renegade,ICE,SUV-B,1515, Renegade,296,3521
+起亚 K5,ICE,Car-D,6072, K5,290,4172
+GMC Acadia,ICE,SUV-D,6872, Acadia,280,6157
+日产 Pathfinder,ICE,SUV-D,5082, Pathfinder,279,4955
+起亚 Soul,ICE,Car-C,5202, Soul,274,4483
+雪佛兰 Malibu,ICE,Car-D,14020, Malibu,273,3768
+雷克萨斯 Lexus RX,ICE,SUV-E,10274, Lexus RX,265,5399
+马自达 CX-50,ICE,SUV-D,3532, CX-50,264,5057
+Cadillac Cadillac XT5,ICE,SUV-D,1985, Cadillac XT5,262,5258
+现代 IONIQ 5,EV,SUV-D,3136, Ioniq,258,3920
+日产 Sentra,ICE,Car-C,12720, Sentra,240,3322
+现代 Santa Fe,ICE,SUV-D,11276, Santa Fe,240,3832
+丰田 Highlander,ICE,SUV-D,18761, Highlander,229,4846
+#N/A,#N/A,#N/A,#N/A, RAV-4,224,3144
+起亚 Kia Forte,ICE,Car-C,10330, Kia Forte,223,3565
+日产 Altima,ICE,Car-D,8093, Altima,215,4312
+沃尔沃汽车  XC60 (Volvo Cars ),ICE,SUV-D,3300, XC60,212,3765
+丰田 Venza,HV,SUV-D,2384, Venza,212,3685
+梅赛德斯-奔驰  GLE-Class (M-Class/ML-Class),ICE,SUV-E,4543, GLE,207,3764
+沃尔沃汽车  XC90 (Volvo Cars ),ICE,SUV-E,2776, XC90,207,3689
+讴歌 Integra ,ICE,Car-C,2608, Integra,203,3665
+现代 Sonata,ICE,Car-D,3834, Sonata,196,2958
+日产 Murano,ICE,SUV-D,2910, Murano,187,3121
+#N/A,#N/A,#N/A,#N/A, Elantra,185,2700
+#N/A,#N/A,#N/A,#N/A, S90,184,3249
+克莱斯勒  Chrysler,柴油 ,Class 5,1823, CHR,183,5176
+雪佛兰 Traverse,ICE,SUV-D,10536, Traverse,183,3132
+现代 Kona,ICE,SUV-C,4791, Kona,183,3069
+Porsche  Cayenne,ICE,SUV-E,1591, Cayenne,181,3705
+道奇  Challenger (Dodge ),ICE,Car-D,4199, Challenger,173,3338
+马自达 MX-5 (Miata),ICE,Car-C,866, MX-5,161,2469
+雪佛兰 Corvette,ICE,Car-F,3136, Corvette,148,4563
+Genesis Genesis GV80,ICE,SUV-E,1506, Genesis GV80,141,2260
+起亚 NIRO,HV,SUV-C,2892, NIRO,134,2196
+雪佛兰 Trax (Tracker),ICE,SUV-B,9719, Trax,130,2220
+雷克萨斯 Lexus NX,ICE,SUV-D,5974, Lexus NX,124,2126
+#N/A,#N/A,#N/A,#N/A, Fusion,119,1978
+起亚 Telluride,ICE,SUV-D,9534, Telluride,118,2086
+#N/A,#N/A,#N/A,#N/A, Golf,112,2002
+#N/A,#N/A,#N/A,#N/A, Land Cruiser,109,1759
+Cadillac Escalade,ICE,SUV-E,4497, Escalade,107,3320
+#N/A,#N/A,#N/A,#N/A, Mazda 3,104,1893
+宝马 X1,ICE,SUV-C,1370, X1,103,1500
+#N/A,#N/A,#N/A,#N/A, X2,103,1500
+路虎  Range Rover (Land Rover ),ICE,SUV-E,1432, Range Rover,99,2461
+别克 Envision,ICE,SUV-C,4192, Envision,99,1798
+本田 Odyssey,ICE,MPV,5239, Odyssey,98,1469
+#N/A,#N/A,#N/A,#N/A, S60,98,2054
+#N/A,#N/A,#N/A,#N/A, V60,98,2054
+#N/A,#N/A,#N/A,#N/A, V90,94,2001
+#N/A,#N/A,#N/A,#N/A, C-HR,93,1304
+#N/A,#N/A,#N/A,#N/A, Cadillac Lyriq,93,1922
+克莱斯勒  Chrysler 300 series (Chrysler ),ICE,Car-E,1635, Chrysler 300,91,3883
+三菱 Outlander,ICE,SUV-D,3936, Outlander,90,1497
+斯巴鲁 Outback,ICE,SUV-D,16225, Outback,85,1387
+宝马 iX,EV,SUV-D,1415, iX,81,1373
+斯巴鲁 Ascent,ICE,SUV-D,5889, Ascent,78,1460
+马自达 CX-9,ICE,SUV-D,863, CX-9,78,1111
+#N/A,#N/A,#N/A,#N/A, Jimny,78,2444
+#N/A,#N/A,#N/A,#N/A, Honda Fit,76,4001
+吉普  Grand Cherokee (Jeep ),ICE,SUV-E,25309, Cherokee,73,1601
+梅赛德斯-奔驰  EQS SUV,EV,SUV-E,1015, EQS,64,1939
+福特 Edge,ICE,SUV-D,7483, Edge,63,1192
+雷克萨斯 Lexus GX,ICE,SUV-E,2545, Lexus GX,62,1278
+#N/A,#N/A,#N/A,#N/A, Range Rover Sport,58,1828
+斯巴鲁 Legacy,ICE,Car-D,2347, Legacy,48,797
+#N/A,#N/A,#N/A,#N/A, Infiniti QX50,48,852
+吉普  Grand Cherokee (Jeep ),ICE,SUV-E,25309, Grand Cherokee,47,1144
+Genesis Genesis GV70,ICE,SUV-D,1745, Genesis GV70,47,919
+Lincoln Lincoln Nautilus,ICE,SUV-D,2286, Lincoln,42,980
+讴歌 Acura MDX,ICE,SUV-E,5048, Acura MDX,41,703
+#N/A,#N/A,#N/A,#N/A, IS250,41,655
+#N/A,#N/A,#N/A,#N/A, IS300,41,655
+雷克萨斯 Lexus IS,ICE,Car-D,1827, Lexus IS,41,655
+#N/A,#N/A,#N/A,#N/A, Range Rover Evoque,41,633
+马自达 Axela (Mazda 3),ICE,Car-C,2745, Axela,40,700
+#N/A,#N/A,#N/A,#N/A, RZR,38,4347
+梅赛德斯-奔驰  C-Class,ICE,Car-D,2845, C-Class,37,517
+#N/A,#N/A,#N/A,#N/A, EQE,37,1053
+沃尔沃汽车  XC40 (Volvo Cars ),ICE,SUV-C,1643, XC40,36,569
+#N/A,#N/A,#N/A,#N/A, Scion,34,1848
+别克 Encore GX,ICE,SUV-C,6316, Encore GX,33,613
+别克 Encore GX,ICE,SUV-C,6316, Encore,33,613
+梅赛德斯-奔驰  GLE-Class (M-Class/ML-Class),ICE,SUV-E,4543, GLE-Class,33,546
+梅赛德斯-奔驰  GLS-Class (GL-Class),ICE,SUV-E,1842, GLS-Class,33,546
+起亚 Sorento (KX7),ICE,SUV-D,7607, Sorento,32,595
+丰田 Prius,HV,Car-C,1472, Prius,31,578
+雪佛兰 Camaro,ICE,Car-D,3207, Camaro,30,708
+#N/A,#N/A,#N/A,#N/A, 5-Series,29,230
+#N/A,#N/A,#N/A,#N/A, Cooper,27,402
+#N/A,#N/A,#N/A,#N/A, Countryman,27,402
+#N/A,#N/A,#N/A,#N/A, bZ4X,26,551
+#N/A,#N/A,#N/A,#N/A, Solterra,26,551
+#N/A,#N/A,#N/A,#N/A, Lexus RC,25,402
+现代 Venue,ICE,SUV-C,2695, Venue,25,366
+#N/A,#N/A,#N/A,#N/A, F-250,23,987
+雷克萨斯 Lexus ES,ICE,Car-E,3611, Lexus ES,23,620
+Lincoln Lincoln MKC/Corsair,ICE,SUV-C,2587, MKC,23,335
+梅赛德斯-奔驰  GLA-Class,ICE,SUV-C,1673, GLA-Class,23,266
+#N/A,#N/A,#N/A,#N/A, CLA-Class,23,266
+#N/A,#N/A,#N/A,#N/A, Journey,20,319
+#N/A,#N/A,#N/A,#N/A, Yaris,20,1137
+#N/A,#N/A,#N/A,#N/A, Ram 2500,20,379
+#N/A,#N/A,#N/A,#N/A, RAM 2500,20,379
+斯巴鲁 XV,ICE,SUV-C,13788, XV,18,178
+#N/A,#N/A,#N/A,#N/A, BRZ,16,554
+#N/A,#N/A,#N/A,#N/A,86,16,554
+#N/A,#N/A,#N/A,#N/A, Fiat 500,16,463
+Porsche  Porsche 911,ICE,Car-F,1191, Porsche 911,16,495
+大众 Jetta,ICE,Car-C,4587, Jetta,15,726
+雪佛兰 Chevrolet Bolt EUV,EV,SUV-C,3318, Chevrolet Bolt,15,239
+#N/A,#N/A,#N/A,#N/A, Accent,14,898
+#N/A,#N/A,#N/A,#N/A, Mirage,13,662
+日产 Nissan Versa,ICE,Car-C,1402, Nissan Versa,13,831
+#N/A,#N/A,#N/A,#N/A, IONIQ 6,12,202
+日产 Nissan Titan,ICE,Pickup Truck,2455, Titan,11,208
+道奇  Durango (Dodge ),ICE,SUV-E,5793, Durango,10,93
+日产 Maxima,ICE,Car-E,1547, Maxima,10,143
+日产 Armada,ICE,SUV-D,1798, Armada,9,299
+#N/A,#N/A,#N/A,#N/A, Hummer,9,462
+Cadillac Cadillac CT5,ICE,Car-E,1784, Cadillac CT5,9,170
+梅赛德斯-奔驰  GLB,ICE,SUV-D,1191, GLB,8,152
+Porsche  Macan,ICE,SUV-D,2784, Macan,8,183
+#N/A,#N/A,#N/A,#N/A, Audi Q7,8,136
+#N/A,#N/A,#N/A,#N/A, Fiesta,8,460
+英菲尼迪 Infiniti QX80 (QX56),ICE,SUV-E,1019, Infiniti QX80,7,237
+#N/A,#N/A,#N/A,#N/A, Infiniti Q50,6,83
+奥迪 Audi Q5,ICE,SUV-D,5695, Audi Q5,6,101
+#N/A,#N/A,#N/A,#N/A, Juke,5,314
+#N/A,#N/A,#N/A,#N/A, Z4,5,98
+#N/A,#N/A,#N/A,#N/A, Discovery Sport,5,74
+雷克萨斯 Lexus UX,HV,SUV-C,1012, Lexus UX,3,77
+#N/A,#N/A,#N/A,#N/A, Optima,2,29
+#N/A,#N/A,#N/A,#N/A, Supra,2,99
+起亚 Rio,ICE,Car-B,2180, Rio,2,119
+#N/A,#N/A,#N/A,#N/A, Ford F-Series,2,49
+奥迪 Audi A4,ICE,Car-D,884, Audi A4,1,79
+#N/A,#N/A,#N/A,#N/A, BMW 7 Series,1,19
+奥迪 Audi A3,ICE,Car-C,1073, Audi A3,1,16
+#N/A,#N/A,#N/A,#N/A, 2 Series,1,19
+#N/A,#N/A,#N/A,#N/A, Audi Q4 e-tron,1,12
+#N/A,#N/A,#N/A,#N/A, F-Pace,1,19
+宝马 BMW 5 Series,ICE,Car-E,1439, BMW 5 Series,0,0
+#N/A,#N/A,#N/A,#N/A, Avalon,0,0
+#N/A,#N/A,#N/A,#N/A, Leaf,0,0
+#N/A,#N/A,#N/A,#N/A, E150,0,0
+#N/A,#N/A,#N/A,#N/A, Flex,0,0
+斯巴鲁 WRX,ICE,Car-C,2326, WRX,0,0
+#N/A,#N/A,#N/A,#N/A, G35,0,0
+#N/A,#N/A,#N/A,#N/A, G25,0,0
+#N/A,#N/A,#N/A,#N/A, 325i,0,0
+#N/A,#N/A,#N/A,#N/A, Beetle,0,0
+雪佛兰 Trailblazer,ICE,SUV-C,11579, Trailblazer,0,0
+#N/A,#N/A,#N/A,#N/A, IS350,0,0
+#N/A,#N/A,#N/A,#N/A, Xterra,0,0
+讴歌 Acura TLX,ICE,Car-D,2013, Acura TL,0,0
+GMC Terrain,ICE,SUV-C,6334, Terrain,0,0
+克莱斯勒  Pacifica (Chrysler ),ICE,MPV,16953, Pacifica,0,0
+#N/A,#N/A,#N/A,#N/A, Caravan,0,0
+#N/A,#N/A,#N/A,#N/A, Insight,0,0
+丰田 Crown,HV,Car-E,1177, Crown,0,0
+#N/A,#N/A,#N/A,#N/A, Stelvio,0,0
+#N/A,#N/A,#N/A,#N/A, F-Type,0,0
+英菲尼迪 Infiniti QX60 (JX),ICE,SUV-E,2719, QX60,0,0
+Lincoln Aviator,ICE,SUV-E,237, Aviator,0,0
+梅赛德斯-奔驰  S-Class,ICE,Car-F,1044, S-Class,0,0
+#N/A,#N/A,#N/A,#N/A, AMG-GT,0,0
+#N/A,#N/A,#N/A,#N/A, CLS-Class,0,0
+日产 Kicks,ICE,SUV-C,5955, Kicks,0,0
+#N/A,#N/A,#N/A,#N/A, Panamera,0,0
+#N/A,#N/A,#N/A,#N/A, Focus,0,0
+Polestar Polestar 2,EV,Car-D,1117, Polestar 2,0,0
+#N/A,#N/A,#N/A,#N/A, XF,0,0
+#N/A,#N/A,#N/A,#N/A, LR4,0,0
+#N/A,#N/A,#N/A,#N/A, Cruze,0,0
+#N/A,#N/A,#N/A,#N/A, Veloster,0,0
+梅赛德斯-奔驰  GLC-Class (GLK-Class),ICE,SUV-D,4702, GLC-Class,0,0
+#N/A,#N/A,#N/A,#N/A, TSX,0,0
+#N/A,#N/A,#N/A,#N/A, Chrysler 200,0,0
+GMC Savana,ICE,van,2560, Savana,0,0
+起亚 Sedona (Carnival),ICE,MPV,4431, Sedona ,0,0
+#N/A,#N/A,#N/A,#N/A, Ariya,0,0
+梅赛德斯-奔驰  G-Class,ICE,SUV-E,1019, G-Class,0,0
+梅赛德斯-奔驰  E-Class,ICE,Car-E,1210, E-Class,0,0
+讴歌 Acura TLX,ICE,Car-D,2013, Acura TLX,0,0
+福特 Transit,ICE,van,10977, Transit,0,0
+#N/A,#N/A,#N/A,#N/A, Mazda 6,0,0
+#N/A,#N/A,#N/A,#N/A, Nitro,0,0
+#N/A,#N/A,#N/A,#N/A, EQB,0,0
+#N/A,#N/A,#N/A,#N/A, Element,0,0
+#N/A,#N/A,#N/A,#N/A, Impala,0,0
+#N/A,#N/A,#N/A,#N/A, Impala,0,0
+#N/A,#N/A,#N/A,#N/A, SRX,0,0
+Cadillac Cadillac XT4,ICE,SUV-C,1857, Cadillac XT4,0,0
+Lincoln Lincoln Nautilus,ICE,SUV-D,2286, Nautilus,0,0
+#N/A,#N/A,#N/A,#N/A, Ford GT,0,0
+现代 Avante (Elantra),ICE,Car-C,13424, Avante ,0,0
+Ram  ProMaster,ICE,van,8131, ProMaster,0,0
+#N/A,#N/A,#N/A,#N/A, Sprinter,0,0
+起亚 SELTOS,ICE,SUV-C,5652, SELTOS,0,0
+别克 Enclave,ICE,SUV-D,3547, Enclave,0,0
+雪佛兰 Chevrolet Express,ICE,van,3290, Chevrolet Express,0,0
+现代 IONIQ 5,EV,SUV-D,3136, IONIQ 5,0,0
+吉普  Wagoneer (Jeep ),ICE,SUV-E,3015, Wagoneer,0,0
+福特 Ford E-Series,ICE,van,2820, E-Series,0,0
+#N/A,#N/A,#N/A,#N/A, E-150,0,0
+宝马 BMW X7,ICE,SUV-E,2561, BMW X7,0,0
+奥迪 Audi A5,ICE,Car-D,2283, Audi A5,0,0
+宝马 BMW i4,EV,Car-E,2131, BMW i4,0,0
+现代 Avante (Elantra),ICE,Car-C,13424, Avante,0,0
+奥迪 Audi Q3,ICE,SUV-C,1928, Audi Q3,0,0
+Cadillac Cadillac XT6,ICE,SUV-E,1867, Cadillac XT6,0,0
+三菱 RVR (ASX/Outlander Sport),ICE,SUV-C,1756, RVR,0,0
+Lincoln Lincoln Navigator,ICE,SUV-E,1674, Lincoln Navigator,0,0
+克莱斯勒  Chrysler 300 series (Chrysler ),ICE,Car-E,1635, Chrysler 300 series,0,0
+#N/A,#N/A,#N/A,#N/A, C40 Recharge,0,0
+#N/A,#N/A,#N/A,#N/A, CX-90,0,0
+福特 Transit Connect,ICE,van,1508, Transit Connect,0,0
+丰田 Corolla iM,ICE,Car-C,1493, Corolla iM,0,0
+Genesis Genesis G70,ICE,Car-D,1353, Genesis G70,0,0
+奥迪 Audi Q8,ICE,SUV-E,1282, Audi Q8,0,0
+Ram  ProMaster City,ICE,van,1222, ProMaster City,0,0
+#N/A,#N/A,#N/A,#N/A, Grand Wagoneer,0,0
+#N/A,#N/A,#N/A,#N/A, Dodge Hornet,0,0
+梅赛德斯-奔驰  EQS SUV,EV,SUV-E,1015, EQS SUV,0,0
+#N/A,#N/A,#N/A,#N/A, Eclipse Cross,0,0
+#N/A,#N/A,#N/A,#N/A, EQE SUV,0,0
+#N/A,#N/A,#N/A,#N/A, Cadillac CT4,0,0
+#N/A,#N/A,#N/A,#N/A, Genesis G80,0,0
+#N/A,#N/A,#N/A,#N/A, Audi Q8 e-tron,0,0
+#N/A,#N/A,#N/A,#N/A, Stinger,0,0
+#N/A,#N/A,#N/A,#N/A, Rivian EDV,0,0
+#N/A,#N/A,#N/A,#N/A, Taycan,0,0
+#N/A,#N/A,#N/A,#N/A, Audi A6,0,0
+#N/A,#N/A,#N/A,#N/A, Lucid Air,0,0
+#N/A,#N/A,#N/A,#N/A, Range Rover Velar,0,0
+#N/A,#N/A,#N/A,#N/A, Lexus LX,0,0
+#N/A,#N/A,#N/A,#N/A, MIRAI,0,0
+#N/A,#N/A,#N/A,#N/A, BMW 8 Series,0,0
+#N/A,#N/A,#N/A,#N/A, Infiniti QX55,0,0
+#N/A,#N/A,#N/A,#N/A, Boxster/Cayman,0,0
+#N/A,#N/A,#N/A,#N/A, MINI Convertible,0,0
+#N/A,#N/A,#N/A,#N/A, Grecale,0,0
+#N/A,#N/A,#N/A,#N/A, VF8,0,0
+#N/A,#N/A,#N/A,#N/A, Audi e-tron GT,0,0
+#N/A,#N/A,#N/A,#N/A, SL-Class,0,0
+#N/A,#N/A,#N/A,#N/A, Alfa Romeo GIULIA,0,0
+#N/A,#N/A,#N/A,#N/A, Lexus RZ,0,0
+#N/A,#N/A,#N/A,#N/A, EcoSport,0,0
+#N/A,#N/A,#N/A,#N/A, Genesis GV60,0,0
+#N/A,#N/A,#N/A,#N/A, MINI Clubman,0,0
+#N/A,#N/A,#N/A,#N/A, Arteon,0,0
+#N/A,#N/A,#N/A,#N/A, Audi A8,0,0
+#N/A,#N/A,#N/A,#N/A, BMW XM,0,0
+#N/A,#N/A,#N/A,#N/A, BMW i7,0,0
+#N/A,#N/A,#N/A,#N/A, Lexus LS,0,0
+#N/A,#N/A,#N/A,#N/A, Nissan Z,0,0
+#N/A,#N/A,#N/A,#N/A, Lexus LC,0,0
+#N/A,#N/A,#N/A,#N/A, Audi A7,0,0
+#N/A,#N/A,#N/A,#N/A, Audi e-tron,0,0
+#N/A,#N/A,#N/A,#N/A, Genesis EQ900,0,0
+丰田 Grand Highlander,HV,SUV-D,159, Grand Highlander,0,0
+#N/A,#N/A,#N/A,#N/A, Infiniti Q60,0,0
+#N/A,#N/A,#N/A,#N/A, Tonale,0,0
+#N/A,#N/A,#N/A,#N/A, Audi TT,0,0
+#N/A,#N/A,#N/A,#N/A, Class 3,0,0
+#N/A,#N/A,#N/A,#N/A, 500X,0,0
+#N/A,#N/A,#N/A,#N/A, E-Pace,0,0
+#N/A,#N/A,#N/A,#N/A, Audi R8,0,0
+#N/A,#N/A,#N/A,#N/A, GT-R,0,0
+#N/A,#N/A,#N/A,#N/A, Hummer Pickup,0,0
+#N/A,#N/A,#N/A,#N/A, SF90 Stradale,0,0
+#N/A,#N/A,#N/A,#N/A, SF90 Spider,0,0
+#N/A,#N/A,#N/A,#N/A, I-Pace,0,0
+#N/A,#N/A,#N/A,#N/A, MX-30,0,0
+#N/A,#N/A,#N/A,#N/A, Nexo,0,0
+#N/A,#N/A,#N/A,#N/A, Ferrari 296,0,0
+#N/A,#N/A,#N/A,#N/A, A-Class,0,0
+#N/A,#N/A,#N/A,#N/A, Spark,0,0
+#N/A,#N/A,#N/A,#N/A, Zevo 600,0,0
+#N/A,#N/A,#N/A,#N/A, Polestar 1,0,0
+#N/A,#N/A,#N/A,#N/A, Lexus GS,0,0
+#N/A,#N/A,#N/A,#N/A, Ram Cargo,0,0
+#N/A,#N/A,#N/A,#N/A, Chrysler 200 Series,0,0
+#N/A,#N/A,#N/A,#N/A, Alfa Romeo 4C,0,0
+#N/A,#N/A,#N/A,#N/A, GS-6,0,0
+#N/A,#N/A,#N/A,#N/A, Fiat 500L,0,0
+#N/A,#N/A,#N/A,#N/A, Clarity Electric,0,0
+#N/A,#N/A,#N/A,#N/A, Clarity Fuel Cell,0,0
+#N/A,#N/A,#N/A,#N/A, Clarity Plug In,0,0
+#N/A,#N/A,#N/A,#N/A, Acura ILX,0,0
+#N/A,#N/A,#N/A,#N/A, Acura RLX,0,0
+#N/A,#N/A,#N/A,#N/A, NSX,0,0
+#N/A,#N/A,#N/A,#N/A, Revero,0,0
+#N/A,#N/A,#N/A,#N/A, TRX400,0,0
+#N/A,#N/A,#N/A,#N/A, TRX450,0,0
+#N/A,#N/A,#N/A,#N/A, Lancer,0,0
+#N/A,#N/A,#N/A,#N/A, C10,0,0
+#N/A,#N/A,#N/A,#N/A, Patriot,0,0
+#N/A,#N/A,#N/A,#N/A, 2002-2009 Dodge Ram,0,0
+#N/A,#N/A,#N/A,#N/A, 2009-2018 Dodge Ram,0,0
+#N/A,#N/A,#N/A,#N/A, 1994-2001 Dodge Ram,0,0
+#N/A,#N/A,#N/A,#N/A, Taurus,0,0
+#N/A,#N/A,#N/A,#N/A, Liberty,0,0
+#N/A,#N/A,#N/A,#N/A, Cobalt,0,0
+#N/A,#N/A,#N/A,#N/A, Caprice,0,0
+#N/A,#N/A,#N/A,#N/A, C30,0,0
+#N/A,#N/A,#N/A,#N/A, Sebring,0,0
+#N/A,#N/A,#N/A,#N/A, Cascadia,0,0
+#N/A,#N/A,#N/A,#N/A, Taurus,0,0
+#N/A,#N/A,#N/A,#N/A, 3-Series,0,0
+#N/A,#N/A,#N/A,#N/A, Taurus,0,0
+#N/A,#N/A,#N/A,#N/A, Econoline,0,0
+#N/A,#N/A,#N/A,#N/A, Cobalt,0,0
+#N/A,#N/A,#N/A,#N/A, Avenger,0,0
+#N/A,#N/A,#N/A,#N/A, VHD,0,0
+#N/A,#N/A,#N/A,#N/A, VNL,0,0
+#N/A,#N/A,#N/A,#N/A, Matrix,0,0
+#N/A,#N/A,#N/A,#N/A, CX5,0,0
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
+,,,, ,,
